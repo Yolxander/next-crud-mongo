@@ -23,7 +23,7 @@ const IndexPage = () => {
         <h2>
           Hello,
           {' '}
-          {user ? user.name : 'stranger'}
+          {user ? user.name : 'friend'}
           !
         </h2>
         <p>Enjoy the rest of your day.</p>
