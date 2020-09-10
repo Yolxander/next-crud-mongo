@@ -181,7 +181,7 @@ export default ({ children }) => {
         <p>
           Source code is on
           {' '}
-          <a href="https://yolxander.com/">Portfolio</a>
+          <a href="https://yolxander.com/">GitHub</a>
           .
         </p>
       </footer>
