@@ -26,13 +26,12 @@ const IndexPage = () => {
           {user ? user.name : 'stranger'}
           !
         </h2>
-        <p>Have a wonderful day.</p>
+        <p>Enjoy the rest of your day.</p>
       </div>
       <div>
         <h3>
-          All posts from the Web
+          All Posts from this App:
           {' '}
-          <span role="img" aria-label="Earth">🌎</span>
         </h3>
         <PostEditor />
         <Posts />

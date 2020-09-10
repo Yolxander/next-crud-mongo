@@ -42,7 +42,7 @@ export default function PostEditor() {
           <input
             name="content"
             type="text"
-            placeholder="Say something, I'm giving up on you..."
+            placeholder="what is your mind?"
           />
         </label>
         <button type="submit" style={{ marginLeft: '0.5rem' }}>Post</button>
